@@ -1,0 +1,182 @@
+{
+    "uredjaji": [{
+            "id": 1,
+            "startDate": "03 03 2021 13:49:51.141",
+            "endDate": "",
+            "kalibracija": false,
+            "active": true,
+            "senzori": [{
+                    "id": 1,
+                    "timestamp": [
+                        1613967677332,
+                        1613967677338,
+                        1613967677341
+                    ],
+                    "calibrtionTimestamp": [
+                        1213967677231,
+                        1213967677237,
+                        1213967677240
+                    ],
+                    "calibrationData": [
+                        0,
+                        1,
+                        0
+                    ],
+                    "data": [
+                        12,
+                        20,
+                        15
+                    ]
+                },
+                {
+                    "id": 3,
+                    "timestamp": [
+                        1613967677231,
+                        1613967677235,
+                        1613967677240
+                    ],
+                    "calibrtionTimestamp": [
+                        1213967677231,
+                        1213967677237,
+                        1213967677240
+                    ],
+                    "calibrationData": [
+                        0,
+                        2,
+                        0
+                    ],
+                    "data": [
+                        15.5,
+                        15.1,
+                        15.7
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "startDate": "1 04 2021 12:39:41.141",
+            "endDate": "25 05 2021 13:29:21.141",
+            "kalibracija": false,
+            "active": false,
+            "senzori": [{
+                    "id": 2,
+                    "timestamp": [],
+                    "calibrtionTimestamp": [
+                        1613967677232,
+                        1613967677238,
+                        1613967677241
+                    ],
+                    "calibrationData": [
+                        0,
+                        3,
+                        1
+                    ],
+                    "data": []
+                },
+                {
+                    "id": 4,
+                    "timestamp": [],
+                    "calibrtionTimestamp": [
+                        1613967677229,
+                        1613967677232,
+                        1613967677238
+                    ],
+                    "calibrationData": [
+                        0,
+                        2,
+                        1
+                    ],
+                    "data": []
+                }
+            ]
+        }
+    ],
+    "senzori": [{
+            "id": 1,
+            "timestamp": [
+                1613967677332,
+                1613967677338,
+                1613967677341
+            ],
+            "calibrtionTimestamp": [
+                1213967677231,
+                1213967677237,
+                1213967677240
+            ],
+            "calibrationData": [
+                0,
+                1,
+                0
+            ],
+            "data": [
+                12,
+                20,
+                15
+            ]
+        },
+        {
+            "id": 2,
+            "timestamp": [],
+            "calibrtionTimestamp": [
+                1613967677232,
+                1613967677238,
+                1613967677241
+            ],
+            "calibrationData": [
+                0,
+                3,
+                1
+            ],
+            "data": []
+        },
+        {
+            "id": 3,
+            "timestamp": [
+                1613967677231,
+                1613967677235,
+                1613967677240
+            ],
+            "calibrtionTimestamp": [
+                1213967677231,
+                1213967677237,
+                1213967677240
+            ],
+            "calibrationData": [
+                0,
+                2,
+                0
+            ],
+            "data": [
+                15.5,
+                15.1,
+                15.7
+            ]
+        },
+        {
+            "id": 4,
+            "timestamp": [],
+            "calibrtionTimestamp": [
+                1613967677229,
+                1613967677232,
+                1613967677238
+            ],
+            "calibrationData": [
+                0,
+                2,
+                1
+            ],
+            "data": []
+        }
+    ],
+    "experiments": [{
+        "datumStart": "08 04  2021 12:39:41.141",
+        "datumEnd": "28 05 2021 13:29:21.141",
+        "broj": 5,
+        "id": 3
+    }],
+    "stopsignal": [{
+        "uredjajID": 0,
+        "id": 0
+    }]
+}
